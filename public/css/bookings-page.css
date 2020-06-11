@@ -1,0 +1,75 @@
+label {
+    padding-left: 20px;
+    font-weight: bold;
+    font-family: Prompt;
+}
+
+#exampleFormControlSelect1 {
+    border: 2px solid black;
+    font-weight: bold;
+    font-family: Prompt;
+}
+
+hr {
+    height: 8px;
+    background: black;
+}
+
+.first {
+    padding-left: 20px;
+}
+
+.heading {
+    padding-top: 10px;
+}
+
+    .heading a {
+        color: black;
+        font-family: Varela Round;
+        font-weight: bold;
+    }
+
+        .heading a:hover {
+            text-decoration: none;
+            border-bottom: solid;
+            border-bottom-color: #7FFFD4;
+            color: black;
+            font-family: Varela Round;
+            font-weight: bold;
+        }
+
+#exampleInputname1, #exampleInputnumber1 {
+    border: 2px solid black;
+}
+
+#textarea {
+    padding-top: 20px;
+}
+
+#comment {
+    border: 3px solid #7FFFD4;
+}
+
+
+#save, #cancel {
+    font-size: large;
+    width: 200px;
+    font-family: Prompt;
+}
+
+#save {
+    background-color: greenyellow;
+    color: black;
+}
+
+#cancel1 a {
+    color: black;
+}
+
+#cancel1 button {
+    background-color: orange;
+}
+
+#cancel1 a:hover {
+    text-decoration: none;
+}

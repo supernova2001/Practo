@@ -1,0 +1,99 @@
+.heading{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+}
+.heading h5{
+	font-family: Varela Round;
+	font-weight: bold;
+}
+	.heading a {
+		font-family: Varela Round;
+		font-weight: bold;
+	}
+hr{
+	height: 8px;
+	background: black;
+}
+#titlebox {
+	background-color: #7FFFD4;
+	height: 50vh;
+}
+#titlebox h3{
+	padding-top: 20px;
+	font-family: Josefin Sans;
+	font-size: 3vh;
+}
+	#titlebox h6 {
+		padding-top: 25px;
+		font-family: Josefin Sans;
+		font-weight: bold;
+	}
+.go a {
+	color: black;
+}
+
+	.go a:hover {
+		text-decoration: none;
+		border-bottom: solid;
+		border-bottom-color: #7FFFD4;
+		color: black;
+	}
+.tests{
+	padding-left: 30px;
+	padding-top: 20px;
+}
+.tests label{
+	font-weight: bold;
+	font-size: 15px;
+}
+.tests select {
+		background-color: #7FFFD4;
+		color: black;
+		border: 1px solid black;
+		cursor: pointer;
+		width: 250px;
+}
+.choose{
+	margin: auto;
+	display: table;
+}
+.lab {
+	background-color: #7FFFD4;
+	border: 1px solid #777;
+	border-radius: 4px;
+	margin-bottom: 10px;
+	padding: 0 5px 5px;
+	width: 40vw;
+	margin: auto;
+	display:table;
+}
+.lab label{
+	color: black;
+	float: left;
+	font-weight: bold;
+}
+.lab select{
+	border: 0px;
+	float: left;
+	width: 50vw;
+}
+.address{
+	padding-top: 20px;
+}
+.continue button{
+	background-color: black;
+	color: white;
+	border-radius: 4px;
+}
+.continue button:hover{
+	background-color: dimgrey;
+}
+.continue a{
+	color: white;
+	text-decoration: none;
+}
+.continue a:hover{
+	text-decoration: none;
+	color: white;
+}

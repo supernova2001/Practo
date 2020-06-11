@@ -1,0 +1,145 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#first_container {
+    background-color: #7FFFD4;
+    color: black;
+    padding: 2vw;
+}
+
+
+    #first_container img {
+        padding: 2vw;
+    }
+
+    #first_container h5 {
+        font-size: 24px;
+        font-family: Josefin Sans;
+        font-weight: bold;
+    }
+
+    #first_container p {
+        padding-top: 1.5vw;
+        font-size: 24px;
+        font-family: Kanit;
+    }
+
+.bookbutton {
+    padding-top: 2vw;
+}
+
+    .bookbutton a {
+        color: black;
+    }
+
+        .bookbutton a:hover {
+            text-decoration: none;
+            color: black;
+        }
+
+
+#diagnosticbutton {
+    background-color: #00FF7F;
+    color: black;
+    font-size: 15px;
+    border-radius: 15px;
+    font-family: Prompt;
+    font-weight: bold;
+}
+
+    #diagnosticbutton:hover {
+        background-color: lightgreen;
+        color: black;
+    }
+
+#nav1 a {
+    color: black;
+    font-weight: bolder;
+}
+
+    #nav1 a:hover {
+        border-bottom: solid;
+        border-bottom-color: #7FFFD4;
+    }
+
+.button {
+    padding-top: 40px;
+}
+
+#explorebutton {
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    float: center;
+    margin: auto;
+    display: table;
+}
+
+#second {
+    padding-top: 80px;
+    height: 100%;
+}
+
+    #second p {
+        font-family: Rubik;
+        font-weight: bold;
+    }
+
+    #second h4 {
+        font-family: Heebo;
+        font-weight: bold;
+    }
+
+.healthsecond h4 {
+    font-family: Heebo;
+    font-weight: bold;
+}
+
+.healthsecond p {
+    font-family: Rubik;
+    font-weight: bold;
+}
+
+.dogreat p {
+    font-family: Rubik;
+}
+
+.dogreat h3 {
+    font-family: Heebo;
+    font-weight: bold;
+}
+
+#footer {
+    background-color: #7FFFD4;
+    font-weight: bold;
+}
+
+    #footer h5 {
+        font-weight: bold;
+    }
+
+    #footer h6 {
+        font-weight: bold;
+    }
+
+    #footer a {
+        color: black;
+    }
+
+    #footer img {
+        width: 35vw;
+        height: 16vh;
+    }
+
+.healthsecond {
+    padding-left: 20px;
+}
+
+.dogreat {
+    padding-left: 10px;
+}
+
+    .dogreat p {
+        font-weight: bold;
+    }

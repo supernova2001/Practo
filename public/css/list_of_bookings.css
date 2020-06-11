@@ -1,0 +1,9 @@
+.heading h3{
+	padding-top: 40px;
+}
+table {
+	background-color: #7FFFD4;
+}
+table, tr,th, td {
+	border: 2px solid black;
+}
